@@ -1,0 +1,8 @@
+body {
+    background-color: bisque;
+}
+
+h1, h2, p, a {
+    text-align: center;
+    margin: auto;
+}
